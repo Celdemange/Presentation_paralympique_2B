@@ -1,0 +1,30 @@
+h1
+{
+color: royalblue;
+}
+
+body
+{
+	background-color: lightskyblue;
+}
+
+#carte
+{
+width: 800px;
+margin:0 auto;
+background-color: white;
+text-align: center;
+align-content: center;
+}
+
+img {
+width : 150px;
+height: 150px;
+}
+
+footer{
+	background-color: royalblue;
+	color: white;
+	padding: 10px;
+	text-align: center;
+}

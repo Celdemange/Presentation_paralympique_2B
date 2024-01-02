@@ -1,0 +1,23 @@
+h1
+{
+	color: silver;
+}
+
+body
+{
+	background-color: lightcoral;
+}
+
+#carte
+{
+width: 800px;
+margin:0-auto;
+background-color: white;
+text-align: center;
+align-content: center;
+}
+
+ img{
+ width: 150px;
+ height:150px;
+}	

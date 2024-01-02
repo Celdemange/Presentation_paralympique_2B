@@ -1,0 +1,16 @@
+img {
+	max-width: 100%;
+	height: auto;
+	display:block;
+	margin:20px auto;
+	max-width: 400px;
+}
+#carte
+{  
+ 
+   margin:0 auto;
+   width: 800px;
+   background-color: white;
+   text-align: center;
+   align-content: center;
+}  

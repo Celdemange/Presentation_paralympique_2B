@@ -1,0 +1,43 @@
+h1
+{
+	color: orangered;
+	font-family: arial;
+}
+
+h2
+{
+	color: orangered;
+	font-family: arial;
+}
+
+h3
+{
+	color: orange;
+	font-family: arial;
+}
+
+p
+{
+	color: orange;
+	font-family: arial;
+}
+
+li
+{
+	color: orange;
+	font-family: arial;
+}
+
+#carte
+{
+	width:800px;
+	margin:0 auto;
+	background-color: darkblue;
+	text-align: center;
+	align-content: center;
+}
+
+body
+{
+	background-color: black;
+}
